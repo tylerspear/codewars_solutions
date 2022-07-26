@@ -11,6 +11,6 @@ function persistence(num) {
   }
 
   return times
-
 }
+
 console.log(persistence(39))
